@@ -1,0 +1,17 @@
+.app{
+  height:'100vh';
+  background-color: 'red';
+}
+  .progressbar{
+    height:'30px';
+    width:'500px';
+    background-color:'red';
+    border-radius:'30px';
+    justify-content:'center';
+    align-items:'center';
+  }
+  
+  .progressbar span{
+    text-align: 'center';
+    justify-content: 'center';
+  }
